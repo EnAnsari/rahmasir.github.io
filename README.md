@@ -1,1 +1,1 @@
-اول بگم که از تم `Minima` برای ساخت این صفحه استفاده کردم. دقیقا هم همین نوشته رو توی ویرگولم گذاشتم.
+I created this page to connect the different sections of Rahmasir together.
