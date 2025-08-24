@@ -1,2 +1,1 @@
-# rahmasir.github.io
-I write my experience here!
+اول بگم که از تم `Minima` برای ساخت این صفحه استفاده کردم. دقیقا هم همین نوشته رو توی ویرگولم گذاشتم.
